@@ -1,3 +1,6 @@
+### `npm i`
+Dont forget to install dependencies
+
 ### `npm start`
 
 To start the project
